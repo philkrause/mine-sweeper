@@ -27,3 +27,7 @@ body {
   margin-bottom: -1.5rem;
   border: outset white 2px;
 }
+
+td button {
+  padding: 1rem;
+}
